@@ -16,7 +16,7 @@
 <div class="container" ng-app="" ng-controller="registerController">
 
   <div class="page-header">
-  	<h2>To Do</h2>
+  	<h2>To Do Sample</h2>
   </div>	
 
   
